@@ -1,9 +1,11 @@
 # AWA-Records-and-Rankings-2025-X
 All scripts used by the Alberta Weightlifting Association (AWA) to maintain athlete rankings and records from 2025 onward. All scripts are coded in Python and run using Google Colab within AWA's google drive. 
 
-You can visit AWAs website here: (https://albertaweightlifting.com/)
-The current and provincial AWA rankings can be found here: (https://docs.google.com/spreadsheets/u/2/d/e/2PACX-1vQANNdom0Tcg8SnjQck6d2VCHBO07yaC9eR6szFPugmAAY_iRbaqbuOHAv4HhodWWKyYIr95AO5EAm7/pubhtml)
-The current and previous AWA provincal records can be found here: (https://docs.google.com/spreadsheets/u/2/d/e/2PACX-1vSSGf0rhr7-zTrHT3r0AUxFxN4As26xg58eCD1f9SdPRwMW2i9r6uexuOtGIMqtJw/pubhtml)
+You can visit AWAs website [here](https://albertaweightlifting.com/).
+
+The current and provincial AWA rankings can be found [here](https://docs.google.com/spreadsheets/u/2/d/e/2PACX-1vQANNdom0Tcg8SnjQck6d2VCHBO07yaC9eR6szFPugmAAY_iRbaqbuOHAv4HhodWWKyYIr95AO5EAm7/pubhtml).
+
+The current and previous AWA provincal records can be found [here](https://docs.google.com/spreadsheets/u/2/d/e/2PACX-1vSSGf0rhr7-zTrHT3r0AUxFxN4As26xg58eCD1f9SdPRwMW2i9r6uexuOtGIMqtJw/pubhtml).
 
 Please use the most recent versions on the rankings and records codes for best results. The previous verions are kept in this repository for archival purposes. 
 
